@@ -1,0 +1,13 @@
+.titre-home {
+  text-align: center;
+  color: white;
+  background-color: #008b8b;
+  padding: 20px
+}
+.img-fluid {
+  max-height: 195px;
+  min-width: 300px;
+}
+.text-center {
+  text-align: center
+}
